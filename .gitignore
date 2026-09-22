@@ -1,0 +1,18 @@
+# IoT-Collector 构建产物
+iot-collector
+station_sim
+frame_dump
+cloud_bridge
+cloud_bridge.conf
+*.o
+*.d
+*.out
+*.exe
+*.bin
+*.dat
+*.cursor
+.idea/
+.vscode/
+*.tmp
+*.swp
+*~
